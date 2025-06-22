@@ -10,3 +10,4 @@ This folder contains practice programs related to **variables, constants, and da
 - Working with different data types: `int`, `float`, `str`, `bool`
 - Type conversion (`int()` / `float()` / `str()`)
 - Checking types with `type()`
+
