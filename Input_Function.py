@@ -1,0 +1,6 @@
+a=int(input("Enter a number 1")) 
+b=int(input("ENter a number 2"))
+print(a)
+print(b)
+# it will not add no it will combine (it stores values in string after taking input from user)
+print(a+b)
